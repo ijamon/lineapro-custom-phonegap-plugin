@@ -1,5 +1,7 @@
 #import <Foundation/Foundation.h>
 
+// SDK version 1.88
+
 //backward compatibility defines
 #define buttonPressed lineaButtonPressed
 #define buttonReleased lineaButtonReleased
