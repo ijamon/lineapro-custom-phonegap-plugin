@@ -9,7 +9,7 @@
     <description>LineaProCDV</description>
     <license>MIT</license>
     <keywords>lineapro,citronium</keywords>
-    <repo>https://github.com/warrenbell/lineapro-phonegap-plugin.git</repo>
+    <repo>https://github.com/ijamon/lineapro-custom-phonegap-plugin.git</repo>
     <issue></issue>
     
     <js-module src="www/LineaProCDV.js" name="LineaProCDV">
